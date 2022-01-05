@@ -8,13 +8,13 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 " === auto-pairs
 Plug 'jiangmiao/auto-pairs' 
-" latex
+" === latex
 Plug 'lervag/vimtex'
 Plug 'vim-latex/vim-latex'
 " === rnvimr
 Plug 'kevinhwang91/rnvimr'
-" ===coc.nvim
+" === coc.nvim
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-" ===tokyonight
+" === tokyonight
 Plug 'folke/tokyonight.nvim', { 'branch': 'main' }
 call plug#end()
