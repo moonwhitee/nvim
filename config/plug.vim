@@ -1,4 +1,6 @@
 call plug#begin('~/.vim/plugged')
+" === surround
+Plug 'tpope/vim-surround'
 " === airline
 Plug 'vim-airline/vim-airline'
 "=== startify
