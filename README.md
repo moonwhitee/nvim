@@ -1,1 +1,2 @@
-This is a Neovim config text.
+# Neovim
+默认设置
